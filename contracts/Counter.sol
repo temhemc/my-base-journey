@@ -8,3 +8,4 @@ contract BaseCounter {
         count += 1;
     }
 }
+//
